@@ -27,5 +27,5 @@ if (Auth::user()->role === 0){
 } else {
   // Admin content
 }
-
+`
 Enjoy :)
